@@ -1,3 +1,4 @@
+repeat wait() until game:IsLoaded() and game.Players.LocalPlayer 
 getgenv().Key = "64d63b691616da7b064b0772"
 getgenv().Config = {
 	["Auto Fire Shoot Heart Leviathan"] = false,
